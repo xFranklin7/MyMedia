@@ -1,0 +1,7 @@
+## Interface: 100206
+## Title: |cffff8000WA ShadowPriest|r |cffffd000by xFranklin|r
+
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+embeds.xml
+Soundpaths.lua 
