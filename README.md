@@ -1,2 +1,2 @@
 # MyMedia
-WA SoundPack
+WA SoundPack for resource of shadow priest
