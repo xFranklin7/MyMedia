@@ -1,4 +1,4 @@
-# MyMedia
+# ShadowPriest SoundPack
 WA SoundPack for resource of Shadow Priest
 
 # Change
