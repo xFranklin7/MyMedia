@@ -1,6 +1,6 @@
 ## Interface: 100206
 ## Title: |cffff8000WA ShadowPriest|r |cffffd000by xFranklin|r
-## IconTexture: Interface\AddOns\MyMedia\icons\logo
+## IconTexture: Interface\AddOns\ShadowPriest SoundPack\icons\logo
 
 libs\LibStub\LibStub.lua
 libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
